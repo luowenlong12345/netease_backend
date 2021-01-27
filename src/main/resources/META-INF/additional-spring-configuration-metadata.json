@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "goods.image.path",
+      "type": "java.lang.String",
+      "description": "The file path of goods images."
+    }
+  ] }
